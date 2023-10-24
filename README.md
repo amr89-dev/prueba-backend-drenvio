@@ -1,4 +1,4 @@
-# API de Ejemplo
+# Documentación API
 
 API para manejar productos, clientes, marcas y precios.
 
