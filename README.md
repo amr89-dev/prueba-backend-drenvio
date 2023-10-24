@@ -8,13 +8,13 @@ API para manejar productos, clientes, marcas y precios.
 
 ## URL
 
-- [https://drenvio-api.2.ie-1.fl0.io/api/v1](https://drenvio-api.2.ie-1.fl0.io/api/v1){:target="\_blank"}
+- [https://drenvio-api.2.ie-1.fl0.io/api/v1](https://drenvio-api.2.ie-1.fl0.io/api/v1) {:target="\_blank" rel="noopener noreferrer"}
 
 ## Productos
 
 ### Obtener todos los productos
 
-- **Endpoint:** [/products](https://drenvio-api.2.ie-1.fl0.io/api/v1/products){:target="\_blank"}
+- **Endpoint:** [/products](https://drenvio-api.2.ie-1.fl0.io/api/v1/products) {:target="\_blank"}
 - **Método:** GET
 - **Descripción:** Obtiene una lista de todos los productos en stock.
 - **Respuesta exitosa (200):** Lista de productos en formato JSON.
